@@ -28,6 +28,7 @@ app.MapGet("/weatherforecast", () =>
     return forecast;
 });
 
+app.MapFallbackToFile("index.html");
 app.Run();
 
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
