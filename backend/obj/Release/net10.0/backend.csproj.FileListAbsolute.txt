@@ -42,8 +42,11 @@ c:\Users\Apple\fasWEBin\backend\obj\Release\net10.0\compressed\xd7sswife3-{0}-ff
 c:\Users\Apple\fasWEBin\backend\obj\Release\net10.0\compressed\x3u8zgi6tf-{0}-ldhc768i1u-ldhc768i1u.gz
 c:\Users\Apple\fasWEBin\backend\obj\Release\net10.0\compressed\a5lj6hfod5-{0}-kmpxxtsv97-kmpxxtsv97.gz
 c:\Users\Apple\fasWEBin\backend\obj\Release\net10.0\compressed\y9eov2avra-{0}-d09vgtfdi5-d09vgtfdi5.gz
-c:\Users\Apple\fasWEBin\backend\obj\Release\net10.0\compressed\s31cdwv3w3-{0}-xfou4eo26l-xfou4eo26l.gz
-c:\Users\Apple\fasWEBin\backend\obj\Release\net10.0\compressed\pcllgev4l3-{0}-zeqm259rxl-zeqm259rxl.gz
 c:\Users\Apple\fasWEBin\backend\obj\Release\net10.0\compressed\n7renchkik-{0}-zpad0q77ht-zpad0q77ht.gz
 c:\Users\Apple\fasWEBin\backend\obj\Release\net10.0\compressed\04nq8hrjpu-{0}-kmpxxtsv97-kmpxxtsv97.gz
 c:\Users\Apple\fasWEBin\backend\obj\Release\net10.0\compressed\tdowhkt92w-{0}-c9hfzdwawn-c9hfzdwawn.gz
+c:\Users\Apple\fasWEBin\backend\obj\Release\net10.0\compressed\s31cdwv3w3-{0}-w4o2rg2589-w4o2rg2589.gz
+c:\Users\Apple\fasWEBin\backend\obj\Release\net10.0\compressed\pcllgev4l3-{0}-1r3qlojr6j-1r3qlojr6j.gz
+c:\Users\Apple\fasWEBin\backend\obj\Release\net10.0\compressed\jpfnzo9fl3-{0}-o5i9giasq2-o5i9giasq2.gz
+c:\Users\Apple\fasWEBin\backend\obj\Release\net10.0\compressed\6j1i1vn1yu-{0}-kmpxxtsv97-kmpxxtsv97.gz
+c:\Users\Apple\fasWEBin\backend\obj\Release\net10.0\compressed\xzpxwd0h22-{0}-qji33nzlsu-qji33nzlsu.gz
