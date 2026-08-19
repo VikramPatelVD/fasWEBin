@@ -1,0 +1,15 @@
+{
+  "sqltools.connections": [
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "PG8001.site4now.net",
+      "port": 6432,
+      "driver": "PostgreSQL",
+      "name": "courier",
+      "database": "db_aaa9d7_courier",
+      "username": "aaa9d7_courier",
+      "password": "Fasweb@2024"
+    }
+  ]
+}

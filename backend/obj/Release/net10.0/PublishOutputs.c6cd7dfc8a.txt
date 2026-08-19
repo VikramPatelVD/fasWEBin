@@ -1,0 +1,7 @@
+c:\Users\Apple\fasWEBin\backend\publish\backend.exe
+c:\Users\Apple\fasWEBin\backend\publish\appsettings.Development.json
+c:\Users\Apple\fasWEBin\backend\publish\appsettings.json
+c:\Users\Apple\fasWEBin\backend\publish\backend.dll
+c:\Users\Apple\fasWEBin\backend\publish\backend.deps.json
+c:\Users\Apple\fasWEBin\backend\publish\backend.runtimeconfig.json
+c:\Users\Apple\fasWEBin\backend\publish\backend.pdb
